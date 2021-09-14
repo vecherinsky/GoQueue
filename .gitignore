@@ -6,3 +6,4 @@ appsettings.json
 local.settings.json
 *.exe
 .vscode
+__azurite*.json
